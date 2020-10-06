@@ -1,0 +1,9 @@
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\bin\Debug\ExAula5Imposto.exe.config
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.Form1.resources
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.Properties.Resources.resources
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.csproj.GenerateResource.Cache
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\bin\Debug\ExAula5Imposto.exe
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\bin\Debug\ExAula5Imposto.pdb
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.exe
+C:\Users\Arnaldo\Desktop\ExAula5Imposto\ExAula5Imposto\obj\Debug\ExAula5Imposto.pdb
