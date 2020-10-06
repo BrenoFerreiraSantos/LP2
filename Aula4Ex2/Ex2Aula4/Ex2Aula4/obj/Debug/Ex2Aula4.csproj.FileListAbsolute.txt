@@ -1,0 +1,9 @@
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\bin\Debug\Ex2Aula4.exe.config
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\bin\Debug\Ex2Aula4.exe
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\bin\Debug\Ex2Aula4.pdb
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.Form1.resources
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.Properties.Resources.resources
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.csproj.GenerateResource.Cache
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.exe
+C:\Users\Arnaldo\Desktop\Ex2Aula4\Ex2Aula4\obj\Debug\Ex2Aula4.pdb
